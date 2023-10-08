@@ -39,12 +39,5 @@ while x < len(post_data):
     print(post_data[x])
     x += 1
 
-statements = "i have tried many time to do this task through FOR Loop, but i couldn't"
-suggestion = "So, please help me to sort it out for both task"
-print(f" \n NOTE -  {statements.capitalize()}.{suggestion} ")
-
-mentor = "MD. ABDUL AOUWAL"
-pos = "THE HONOURABLE MENTOR OF THIS BATCH"
-print("\n THANKS TO ",mentor.title(),"\n ", pos.lower() )
 
 
