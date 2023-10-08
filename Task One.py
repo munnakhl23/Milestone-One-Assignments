@@ -20,12 +20,3 @@ while i < len(mobile_data['data']):
     i += 1
     print(f'{mobile_name} is made in {mobile_made_in}. The price is {mobile_price} which is almost equal to {currency_conversion} BDT ')
 
-statements = "i have tried many time to do this task through FOR Loop, but i couldn't"
-suggestion = "So, please help me to sort it out for both task"
-print(f" \n NOTE -  {statements.capitalize()}.{suggestion} ")
-
-mentor = "MD. ABDUL AOUWAL"
-pos = "THE HONOURABLE MENTOR OF THIS BATCH"
-print("\n THANKS TO ",mentor.title(),"\n ", pos.lower() )
-
-
